@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-int main(void) {
+int main() {
 	
 	int a[5][5],count=0;
 	
